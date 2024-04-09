@@ -1,3 +1,16 @@
-I make stuff or contribute to other repos when I have time + a good idea.
+<h1 align="center"> 👋 Hi, I'm Eric </h1>
 
-![Top Langs](https://github-readme-stats-wine-nu.vercel.app/api/top-langs/?username=waresnew&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=dmoj-solutions)
+I make stuff when I have time + a good idea.
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,java,js,python,cpp,empty,nodejs,mongodb,sqlite,docker,jest,empty,githubactions,linux,bash)](https://skillicons.dev)
+
+### Check out my other coding interests:
+
+- 💻 **Hackathons**: [Devpost](https://devpost.com/newwares123)
+- 🚩 **CTF**: [picoCTF](https://play.picoctf.org/users/newwares)
+- 🧠 **Competitive programming**: [DMOJ](https://dmoj.ca/user/newwares)
+
+### Projects that I've contributed to:
+- [Vencord](https://github.com/Vendicated/Vencord)

@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Eric </h1>
 
-I make stuff when I have time + a good idea.
+I love turning my ideas into reality with code (when I have the time).
 
 ### Skills
 
@@ -8,9 +8,12 @@ I make stuff when I have time + a good idea.
 
 ### Check out my other coding interests:
 
-- 💻 **Hackathons**: [Devpost](https://devpost.com/newwares123)
-- 🚩 **CTF**: [picoCTF](https://play.picoctf.org/users/newwares)
-- 🧠 **Competitive programming**: [DMOJ](https://dmoj.ca/user/newwares)
+&nbsp;&nbsp;&nbsp;&nbsp;💻 **Hackathons**: [Devpost](https://devpost.com/newwares123)
+
+&nbsp;&nbsp;&nbsp;&nbsp;🚩 **CTF**: [picoCTF](https://play.picoctf.org/users/newwares)
+
+&nbsp;&nbsp;&nbsp;&nbsp;🧠 **Competitive programming**: [DMOJ](https://dmoj.ca/user/newwares)
 
 ### Projects that I've contributed to:
+
 - [Vencord](https://github.com/Vendicated/Vencord)

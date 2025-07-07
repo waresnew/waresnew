@@ -2,6 +2,12 @@
 
 I love turning my ideas into reality with code (when I have the time).
 
+### Projects that I've contributed to:
+
+Click the links to see my PRs.
+
+- [Vencord](https://github.com/Vendicated/Vencord/pulls?q=is%3Apr+author%3Awaresnew)
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=ts,java,js,python,cpp,empty,nodejs,mongodb,sqlite,docker,jest,empty,githubactions,linux,bash)](https://skillicons.dev)
@@ -14,8 +20,4 @@ I love turning my ideas into reality with code (when I have the time).
 
 &nbsp;&nbsp;&nbsp;&nbsp;🧠 **Competitive programming**: [DMOJ](https://dmoj.ca/user/newwares)
 
-### Projects that I've contributed to:
 
-Click the links to see my PRs.
-
-- [Vencord](https://github.com/Vendicated/Vencord/pulls?q=is%3Apr+author%3Awaresnew)

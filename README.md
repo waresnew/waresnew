@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Hi, I'm Eric </h1>
 
-I love turning my ideas into reality with code (when I have the time).
+I love turning my ideas into reality with code.
 
 ### Projects that I've contributed to:
 
